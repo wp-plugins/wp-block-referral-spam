@@ -126,6 +126,18 @@ $spams = array (
                 "www.event-tracking.com",
                 "trafficmonetize.org",
                 "cxpromote.com",
+                "непереводимая.рф",
+                "sanjosestartups.com",
+                "free-social-buttons.com",
+                "*.free-share-buttons.com",
+                "websites-reviews.com",
+                "www1.free-social-buttons.com",
+                "www2.free-social-buttons.com",
+                "www3.free-social-buttons.com",
+                "www4.free-social-buttons.com",
+                "www5.free-social-buttons.com",
+                "www6.free-social-buttons.com",
+                "www7.free-social-buttons.com",
 ); 
 // array of evil spammers 
 
