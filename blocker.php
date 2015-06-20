@@ -129,7 +129,7 @@ $spams = array (
                 "непереводимая.рф",
                 "sanjosestartups.com",
                 "free-social-buttons.com",
-                "*.free-share-buttons.com",
+                "free-share-buttons.com",
                 "websites-reviews.com",
                 "www1.free-social-buttons.com",
                 "www2.free-social-buttons.com",
@@ -138,6 +138,19 @@ $spams = array (
                 "www5.free-social-buttons.com",
                 "www6.free-social-buttons.com",
                 "www7.free-social-buttons.com",
+                "www8.free-social-buttons.com",
+                "www9.free-social-buttons.com",
+                "www10.free-social-buttons.com",
+                "free-social-buttons.org",
+                "howtostopreferralspam.eu",
+                "100dollars-seo.com",
+                "plusnetwork.com",
+                "howtostopreferralspam.com",
+                "sitevaluation.org",
+                "shodanhq.com",
+                "dailyrank.net",
+                "webmonetizer.net",
+                "traffic-paradise.org",
 ); 
 // array of evil spammers 
 

@@ -4,7 +4,7 @@ Donate link: http://wpdeveloper.net/
 Tags: referral spam, google analytics referral spam, google referral spam, 4webmasters.org, semalt.com, ghost referrers, spam attack, Get-Free-Traffic-Now.com, Blocking Spam Referral, referral spam, analytics spam  
 Requires at least: 2.5.0
 Tested up to: 4.2.2
-Stable tag: 1.0.2
+Stable tag: 1.0.3
 License: GPLv2+
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -16,7 +16,7 @@ This plugins blocks the most number of Referral Spams. Now no more notice from G
 
 This plugins blocks the most number of Referral Spams. Now no more notice from Google and no more weird report in Google Analytics.
 
-Its super simple to use, nothing to setup, just install and activate the plugin, we will protect from 137 separate domain (thanks to the user feedback) that spam your Google Analytics. This domain list is always increasing and biggest list available online.
+Its super simple to use, nothing to setup, just install and activate the plugin, we will protect from 150 separate domain (thanks to the user feedback) that spam your Google Analytics. This domain list is always increasing and biggest list available online.
 
 You could give feedback to us directly, and suggest new spam domain, [click here](https://wpdeveloper.net/go/BRS-UO).
 
@@ -78,6 +78,10 @@ More FAQs - [here](https://wpdeveloper.net/free-plugin/block-referral-spam/)
 
 == Changelog ==
 
+= 1.0.3 - June 20, 2015 =
+* Bug Fix
+* Thanks to user feedback, list now increased to 150 spam domain list.
+
 = 1.0.2 - June 12, 2015 =
 * Thanks to user feedback, list now increased to 137 spam list.
 
@@ -92,8 +96,8 @@ More FAQs - [here](https://wpdeveloper.net/free-plugin/block-referral-spam/)
 
 == Upgrade Notice ==
 
-= 1.0.1 =
-* [Must Update] Thanks to user feedback, list now increased to 137 spam list.
+= 1.0.3 =
+* [Must Update] Bug Fix. Thanks to user feedback, list now increased to 150 spam domain list.
 
 
 
