@@ -151,6 +151,13 @@ $spams = array (
                 "dailyrank.net",
                 "webmonetizer.net",
                 "traffic-paradise.org",
+                "Semaltmedia.com",
+                "videos-for-your-business.com",
+                "success-seo.com",
+                "googlsucks.com",
+                "floating-share-buttons.com",
+                "getyourprofit.net",
+                "sharebutton.to",
 ); 
 // array of evil spammers 
 
